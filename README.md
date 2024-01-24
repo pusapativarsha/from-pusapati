@@ -40,3 +40,15 @@ This place has always been legendary for its birayani and i have a lot of childh
 > "The best way to predict the future is to create it" - ***Peter Drucker***
 
 ---
+
+### Code Fencing
+
+This is a select distinct command in SQL and is used to return only distinct values.
+
+```
+SELECT DISTINCT column1, column2, ...
+FROM table_name;
+
+```
+
+[SQL command](https://code.pieces.app/collections/sql)
