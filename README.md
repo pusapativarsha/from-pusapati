@@ -21,6 +21,7 @@ This place has always been legendary for its birayani and i have a lot of childh
 [linkofMyMedia](MyMedia.md)
 
 ---
+
 ### Tables
 
 | BookName | Reason why i recommend it | AuthorName |
@@ -28,6 +29,14 @@ This place has always been legendary for its birayani and i have a lot of childh
 | YOU CAN WIN | This book is focused on providing practical and motivational advice to help us achieve success in our personal and professional lives. | Shiv Khera |
 | IKIGAI | This book is about the Japanese Secret to a long and happy life like how they eat, how they work , how they find ikigai that brings satisfaction to their lives. It provides practical tools to help us discover our own ikigai. | Hector Garcia | 
 | The POWER OF YOUR SUBCONSCIOUS MIND | This book provides invaluable insights into self-understanding and the art of controlling our thoughts on a daily basis. It shows how visualization and affirmation can change our thought process. | Joseph Murphy |
-| THE ALCHEMIST | This book is about idea that all individuals should live in the singular pursuit of their individual dreams. This book gives a great message that it's okay to make mistakes and stumble along the way, as long as you get up and try. | Paulo Coelho |
+| THE ALCHEMIST | This book is about idea that all individuals should live in the singular pursuit of their individual dreams. This book gives a great message that it's okay to make mistakes and stumble along the way, as long as you get up and try | Paulo Coelho |
+
+---
+
+### My Favourite Quotes
+
+> "The only limit to our realization of tomorrow will be our doubts of today " - ***Franklin D. Roosevelt***
+
+> "The best way to predict the future is to create it" - ***Peter Drucker***
 
 ---
